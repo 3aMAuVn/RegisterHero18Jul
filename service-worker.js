@@ -1,4 +1,4 @@
-const CACHE_NAME = "magic-math-master-v3";
+const CACHE_NAME = "magic-math-master-v4";
 
 const STATIC_FILES = [
   "/",
